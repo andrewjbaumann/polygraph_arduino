@@ -4,11 +4,11 @@ A polygraph test program for arduino.
 # polygraph_arduino
 A polygraph test program for arduino. 
 
-	The Baumann Company™ is proud to present our very first Arduino device: a polygraph test! Have suspicions 
-	about your boyfriend or girlfriend’s late nights at the office? Scared that your parents are lying when 
-	they say they will leave you the house? Want to make sure your dog is not going through your garbage when
-	you are not home? Simply set them up to the polygraph test, ask your questions, and see your results! It
-	is that easy. 
+The Baumann Company™ is proud to present our very first Arduino device: a polygraph test! Have suspicions 
+about your boyfriend or girlfriend’s late nights at the office? Scared that your parents are lying when 
+they say they will leave you the house? Want to make sure your dog is not going through your garbage when
+you are not home? Simply set them up to the polygraph test, ask your questions, and see your results! It
+is that easy. 
 	
 This is the simple program that runs the polygraph tester I made as my first arduino project. The code was only possible
 thanks to the great documentation of Pulse Sensor Amped, which was the heart rate monitor used in this project.
